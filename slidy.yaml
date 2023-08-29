@@ -1,0 +1,4 @@
+slidy: '1'
+scripts:
+  runner: flutter pub run build_runner watch --delete-conflicting-outputs
+  pub: flutter pub get
